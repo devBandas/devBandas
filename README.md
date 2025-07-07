@@ -11,6 +11,6 @@ _A Brazilian programmer who loves programming and is in the second period of Sof
 ## About Me
 
 * Age : 19y
-* Skills : JavaScript, Python, HTML, CSS
+* Skills : Python, JavaScript, HTML, CSS
 * School : UniFavip Wyden
 * Linkedin : [https://www.linkedin.com/in/eduardo-bandeira-8948a9365/](https://www.linkedin.com/in/eduardo-bandeira-8948a9365/)
