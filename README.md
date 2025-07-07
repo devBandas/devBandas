@@ -1,16 +1,16 @@
-## Hi therem I'm Eduardo! 👋
+# Hi there I'm Eduardo! 👋
 
-<!--
-**devBandas/devBandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3 align = " center "> Bio </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_A Brazilian programmer who loves programming and is in the second period of Software Engineering and trying to learn about everything, currently studying Python and JavaScript._
+
+---
+
+## About Me
+
+* Age : 19y
+* Skills : JavaScript, Python, HTML, CSS
+* School : UniFavip Wyden
+* Linkedin : [https://www.linkedin.com/in/eduardo-bandeira-8948a9365/](https://www.linkedin.com/in/eduardo-bandeira-8948a9365/)
