@@ -4,7 +4,7 @@
 
 <h3 align = " center "> Bio </h3>
 
-_A Brazilian programmer who loves programming and is in the second period of Software Engineering and trying to learn about everything, currently studying Python and JavaScript._
+_A Brazilian programmer who loves programming and is in the first period of Computer Science and trying to learn about everything, currently studying Python and C._
 
 ---
 
@@ -12,5 +12,5 @@ _A Brazilian programmer who loves programming and is in the second period of Sof
 
 * Age : 19y
 * Skills : Python, JavaScript, HTML, CSS
-* School : UniFavip Wyden
+* School : Ifam (Instito Federal do Amazonas)
 * Linkedin : [https://www.linkedin.com/in/eduardo-bandeira-8948a9365/](https://www.linkedin.com/in/eduardo-bandeira-8948a9365/)
