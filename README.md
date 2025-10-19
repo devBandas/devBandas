@@ -11,6 +11,6 @@ _A Brazilian programmer who loves programming and is in the first period of Comp
 ## About Me
 
 * Age : 19y
-* Skills : Python, JavaScript, HTML, CSS
+* Skills : Python, C, HTML, CSS
 * School : IFAM (Instito Federal do Amazonas)
 * Linkedin : [https://www.linkedin.com/in/eduardo-bandeira-8948a9365/](https://www.linkedin.com/in/eduardo-bandeira-8948a9365/)
